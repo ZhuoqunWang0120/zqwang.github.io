@@ -1,8 +1,8 @@
 ## About
 
-I am a second year PhD student of Statistical Science at Duke University. 
+[I am a second year PhD student of Statistical Science at Duke University](https://scholars.duke.edu/person/zhuoqun.wang) 
 
-My life = span{Stats, Math, Cantopop, blahblahblah}
+My life = span{Stats, Math, Cantopop, blahblahblah}, where {Stats, Math, Cantopop} explains at least 50% of the variation in my life.
 
 ## Education
 
