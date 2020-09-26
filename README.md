@@ -10,10 +10,10 @@ where {Stats, Math, Cantopop} explains at least 50% of the variation in my life.
 
 <table border="0" width="0">
     <tr>
-    	<td style='border:none;',align="left">hahaha</td><td align="left">Left haha</td><td align="center">Centre Aligned</td><td align="right">Right Aligned</td>
+    	<td style='border:none;',align="left">_2019 - present_</td><td style='border:none;',align="left">PhD (in progress) in Statistical Science, Duke University</td>
     </tr>
     <tr>
-    	<td style='border:none;',align="left">Row test 1</td><td align="left">Left Aligned</td><td align="center">Centre Aligned</td><td align="right">Right Aligned</td>
+        <td style='border:none;',align="left">_2019 - present_</td><td style='border:none;',align="left">PhD (in progress) in Statistical Science, Duke University</td>    
     </tr>
   </table>
 
