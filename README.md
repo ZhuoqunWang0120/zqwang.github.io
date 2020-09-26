@@ -1,6 +1,6 @@
 ## About
 
-I am a second year PhD student of Statistical Science at Duke University (but NOT a diehard Bayesian).
+I am a second year PhD student of Statistical Science at Duke University, yet not a diehard Bayesian.
 
 My life = span{Stats, Math, Cantopop, blahblahblah}, 
 
@@ -8,9 +8,17 @@ where {Stats, Math, Cantopop} explains at least 50% of the variation in my life.
 
 ## Education
 
-| Implementation | Tests |<br>
-|:--------------:|:-----:|<br>
-| Done           | Done  |
+<table border="2" width="0">
+    <tr>
+        <th></th><th>Column Header One</th><th>Column Header Two</th><th>Column Header Three</th>
+    </tr>
+    <tr>
+    	<td align="right">Row Hdr 1</td><td align="left">Left Aligned</td><td align="center">Centre Aligned</td><td align="right">Right Aligned</td>
+    </tr>
+    <tr>
+    	<td align="right">Row Hdr 2</td><td colspan="2" align="left">colspan the next cell</td><td align="right">Row 2, Col 3</td>
+    </tr>
+  </table>
 
 _2019 - present_    PhD (in progress) in Statistical Science, Duke University 
 
