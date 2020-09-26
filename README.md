@@ -1,14 +1,21 @@
 ## About
 
-[I am a second year PhD student of Statistical Science at Duke University](https://scholars.duke.edu/person/zhuoqun.wang) 
+[I am a second year PhD student of Statistical Science at Duke University.](https://scholars.duke.edu/person/zhuoqun.wang) 
 
-My life = span{Stats, Math, Cantopop, blahblahblah}, where {Stats, Math, Cantopop} explains at least 50% of the variation in my life.
+My life = span{Stats, Math, Cantopop, blahblahblah}, 
+
+where {Stats, Math, Cantopop} explains at least 50% of the variation in my life.
 
 ## Education
 
-You can use the [editor on GitHub](https://github.com/ZhuoqunWang0120/zqwang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+_2019 - present_ PhD (in progress) in Statistical Science, Duke University 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_2015 - 2019_ B.Sc. in Mathematics, Kuang Yaming Honors School, Nanjing University
+
+_2013 - 2015_ Suzhou High School 
+
+_When I was a kid_ 江苏师范大学附属幼儿园、附属小学、附属中学，i.e., “管道”
+
 
 ## Research
 
