@@ -23,7 +23,8 @@ My current interests include Bayesian nonparametrics, multi-scale inference, and
 
 [A previous paper](https://pubmed.ncbi.nlm.nih.gov/30056505/) on evolutionary games.
 
-## Links
+## Contact
 
-[The R Graph Gallery](https://www.r-graph-gallery.com/)
+[Email me](mailto:zw122@duke.edu)
+
 
