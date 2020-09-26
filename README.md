@@ -13,21 +13,15 @@ where {Stats, Math, Cantopop} explains at least 50% of the variation in my life.
     	<td style='border:none;' align="left"> 2019 - present </td><td style='border:none;' align="left"> PhD (in progress) in Statistical Science, Duke University </td>
     </tr>
     <tr>
-        <td style='border:none;' align="left">_2015 - 2019_</td><td style='border:none;' align="left">B.Sc. in Mathematics, Kuang Yaming Honors School, Nanjing University</td>    
+        <td style='border:none;' align="left"> 2015 - 2019 </td><td style='border:none;' align="left"> B.Sc. in Mathematics, Kuang Yaming Honors School, Nanjing University </td>    
     </tr>
     <tr>
-    	<td style='border:none;' align="left">_2019 - present_</td><td style='border:none;' align="left">PhD (in progress) in Statistical Science, Duke University</td>
+    	<td style='border:none;' align="left"> 2013 - 2015 </td><td style='border:none;' align="left"> Suzhou High School  </td>
+    </tr>
+    <tr>
+    	<td style='border:none;' align="left"> When I was a kid </td><td style='border:none;' align="left"> 江苏师范大学附属幼儿园、附属小学、附属中学，i.e., “管道”  </td>
     </tr>
   </table>
-
-_2019 - present_    PhD (in progress) in Statistical Science, Duke University 
-
-_2015 - 2019_       B.Sc. in Mathematics, Kuang Yaming Honors School, Nanjing University
-
-_2013 - 2015_       Suzhou High School 
-
-_When I was a kid_  江苏师范大学附属幼儿园、附属小学、附属中学，i.e., “管道”
-
 
 ## Research
 
