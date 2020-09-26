@@ -10,13 +10,10 @@ where {Stats, Math, Cantopop} explains at least 50% of the variation in my life.
 
 <table border="0" width="0">
     <tr>
-        <th></th><th>Column Header One</th><th>Column Header Two</th><th>Column Header Three</th>
-    </tr>
-    <tr>
     	<td align="right">Row Hdr 1</td><td align="left">Left Aligned</td><td align="center">Centre Aligned</td><td align="right">Right Aligned</td>
     </tr>
     <tr>
-    	<td align="right">Row Hdr 2</td><td colspan="2" align="left">colspan the next cell</td><td align="right">Row 2, Col 3</td>
+    	<td align="right">Row Hdr 1</td><td align="left">Left Aligned</td><td align="center">Centre Aligned</td><td align="right">Right Aligned</td>
     </tr>
   </table>
 
