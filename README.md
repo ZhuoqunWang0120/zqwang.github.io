@@ -1,3 +1,8 @@
+## About
+
+I am a second year PhD student of Statistical Science at Duke University. 
+$$\text{My life}=\text{span}\{Stats, Math, Cantopop, Feeding myself\}$$
+
 ## Education
 
 You can use the [editor on GitHub](https://github.com/ZhuoqunWang0120/zqwang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
