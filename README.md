@@ -8,43 +8,22 @@ where {Stats, Math, Cantopop} explains at least 50% of the variation in my life.
 
 ## Education
 
-`2019 - present`
+_2019 - present_    PhD (in progress) in Statistical Science, Duke University 
 
-_ PhD (in progress) in Statistical Science, Duke University_ 
+_2015 - 2019_       B.Sc. in Mathematics, Kuang Yaming Honors School, Nanjing University
 
-_2015 - 2019_ B.Sc. in Mathematics, Kuang Yaming Honors School, Nanjing University
+_2013 - 2015_       Suzhou High School 
 
-_2013 - 2015_ Suzhou High School 
-
-_When I was a kid_ 江苏师范大学附属幼儿园、附属小学、附属中学，i.e., “管道”
+_When I was a kid_  江苏师范大学附属幼儿园、附属小学、附属中学，i.e., “管道”
 
 
 ## Research
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My current interests include Bayesian nonparametrics, multi-scale inference, and modeling complex datasets from biomedical experiments. 
 
-```markdown
-Syntax highlighted code block
+[A previous paper](https://pubmed.ncbi.nlm.nih.gov/30056505/) on evolutionary games.
 
 ## Links
 
-- Bulleted
-- List
+[The R Graph Gallery](https://www.r-graph-gallery.com/)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZhuoqunWang0120/zqwang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
