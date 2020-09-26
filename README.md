@@ -1,7 +1,8 @@
 ## About
 
 I am a second year PhD student of Statistical Science at Duke University. 
-$$\text{My life}=\text{span}\{Stats, Math, Cantopop, Feeding myself\}$$
+
+My life = span{Stats, Math, Cantopop, blahblahblah}
 
 ## Education
 
