@@ -18,9 +18,8 @@ where _{Stats, Math, Cantopop}_ explains at least 50% of the variation in my lif
 </head>
 <body>
 <p>
-  \( \text{My life} = \text{span} \{\text{a,b,c} \} \)
-  When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
-  \[x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\]
+  \( \text{My life} = \text{span} \{\text{Stats, Math, Cantopop, blahblahblah} \} ,\)
+  where \(\text{Stats, Math, Cantopop}\) explains at least \(50%\) of the variation in my life.
 </p>
 </body>
 </html>
