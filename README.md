@@ -13,7 +13,7 @@ I am a second year PhD student of Statistical Science at Duke University, yet no
   </script>
 </head>
 <body>
-<
+<p>
   \( \text{My life} = \text{span} \{\text{Stats, Math, Cantopop, blahblahblah} \} ,\)
     
   where \(\{\text{Stats, Math, Cantopop}\}\) explains at least \(50%\) of the variation in my life.
