@@ -8,6 +8,10 @@ where {Stats, Math, Cantopop} explains at least 50% of the variation in my life.
 
 ## Education
 
+aa|bb|cc
+--|--|--
+ee|ff|gg 
+
 _2019 - present_    PhD (in progress) in Statistical Science, Duke University 
 
 _2015 - 2019_       B.Sc. in Mathematics, Kuang Yaming Honors School, Nanjing University
