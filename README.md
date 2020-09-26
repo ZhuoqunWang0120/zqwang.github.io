@@ -8,8 +8,10 @@ where {Stats, Math, Cantopop} explains at least 50% of the variation in my life.
 
 ## Education
 
-aa|bb|cc
-ee|ff|gg 
+| | | |
+|-|-|-|
+|__Bold Key__| Value1 |
+| Normal Key | Value2 |
 
 _2019 - present_    PhD (in progress) in Statistical Science, Duke University 
 
