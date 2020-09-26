@@ -10,7 +10,7 @@ where {Stats, Math, Cantopop} explains at least 50% of the variation in my life.
 
 <table border="0" width="0">
     <tr>
-    	<td align="right">Row Hdr 1</td><td align="left">Left Aligned</td><td align="center">Centre Aligned</td><td align="right">Right Aligned</td>
+    	<td align="right">hahaha</td><td align="left">Left Aligned</td><td align="center">Centre Aligned</td><td align="right">Right Aligned</td>
     </tr>
     <tr>
     	<td align="right">Row Hdr 1</td><td align="left">Left Aligned</td><td align="center">Centre Aligned</td><td align="right">Right Aligned</td>
