@@ -8,7 +8,7 @@ where {Stats, Math, Cantopop} explains at least 50% of the variation in my life.
 
 ## Education
 
-<table border="1" width="0">
+<table border="0" width="0">
     <tr>
         <th></th><th>Column Header One</th><th>Column Header Two</th><th>Column Header Three</th>
     </tr>
