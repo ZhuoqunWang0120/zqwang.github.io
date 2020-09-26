@@ -1,6 +1,6 @@
 ## About
 
-[I am a second year PhD student of Statistical Science at Duke University.](https://scholars.duke.edu/person/zhuoqun.wang) 
+I am a second year PhD student of Statistical Science at Duke University (but NOT a diehard Bayesian).
 
 My life = span{Stats, Math, Cantopop, blahblahblah}, 
 
