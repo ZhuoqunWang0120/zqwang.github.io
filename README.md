@@ -2,10 +2,6 @@
 
 I am a second year PhD student of Statistical Science at Duke University, yet not a diehard Bayesian.
 
-_My life = span{Stats, Math, Cantopop, blahblahblah}_, 
-
-where _{Stats, Math, Cantopop}_ explains at least 50% of the variation in my life.
-
 <html>
 <head>
   <meta charset="utf-8">
@@ -17,9 +13,10 @@ where _{Stats, Math, Cantopop}_ explains at least 50% of the variation in my lif
   </script>
 </head>
 <body>
-<p>
+<
   \( \text{My life} = \text{span} \{\text{Stats, Math, Cantopop, blahblahblah} \} ,\)
-  where \(\text{Stats, Math, Cantopop}\) explains at least \(50%\) of the variation in my life.
+    
+  where \(\{\text{Stats, Math, Cantopop}\}\) explains at least \(50%\) of the variation in my life.
 </p>
 </body>
 </html>
