@@ -3,3 +3,5 @@ title: Zhuoqun Wang
 description: Welcome to my website!
 show_downloads: false
 logo: IMG_3383.JPG
+github:
+  is_project_page: false
